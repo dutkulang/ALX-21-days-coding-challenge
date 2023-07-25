@@ -54,6 +54,8 @@ comment: "
 10. Give this challenge repo a <span style='color:gold; font-size:30px;'>&#9733;</span> and continue your `DO HARD THINGS` journey.
 <hr>
 
+`The zen of ALX, by Dut Kulang`
+
 As you do hard things
 
 Remember that aunty Betty is final
