@@ -76,7 +76,7 @@ datelines willl police and enforce it.
 
 To defer does not make you failure
 
-even the strong must rest too
+even the smartest minds must rest too
 
 semi-colons are the root cause of all evil 
 
