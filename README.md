@@ -74,6 +74,12 @@ datelines police and enforce it.
 
 semi-colons ';' are the root cause of all evil 
 
-don't forget them at ends of your lines.
+don't forget them at end of your lines.
 
-C will make see ask Cpython.
+C will make see 
+
+ask Cpython what it saw
+
+while true, we
+
+Do hard things
