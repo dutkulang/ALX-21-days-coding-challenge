@@ -51,6 +51,6 @@ comment: "
     - used free to free up the allocated heap memory.
 "
 ```
-10. Give this challenge repo a star and continue your `DO HARD THINGS` journey.
+10. Give this challenge repo a <span style='color:gold; font-size:30px;'>&#9733;</span> and continue your `DO HARD THINGS` journey.
 
 Remember, aunty Betty is watching your code and her lion pet Kimba will smell and bite you if you dare cheat.
