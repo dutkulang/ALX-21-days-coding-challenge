@@ -52,5 +52,28 @@ comment: "
 "
 ```
 10. Give this challenge repo a <span style='color:gold; font-size:30px;'>&#9733;</span> and continue your `DO HARD THINGS` journey.
+<hr>
 
-Remember, aunty Betty is watching your code and her lion pet Kimba will smell and bite you if you dare cheat.
+Remember that aunty Betty is final
+
+she is the BOSS
+
+you must make her HAPPY
+
+Your code MUST be to her taste
+
+or suffer headache from her shouting
+
+her lion pet Kimba will smell and bite you
+
+if you dare cheat. 
+
+80 hours a week is real not a joke,
+
+datelines police and enforce it.
+
+semi-colons ';' are the root cause of all evil 
+
+don't forget them at ends of your lines.
+
+C will make see ask Cpython.
