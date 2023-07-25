@@ -58,7 +58,7 @@ As you do hard things
 
 Remember that aunty Betty is final
 
-she is the BOSS
+because she is the BOSS
 
 you must make her HAPPY
 
@@ -66,7 +66,7 @@ Your code MUST be to her taste
 
 or suffer in her hands
 
-her lion pet Kimba will smell and bite
+her pet Kimba will smell and bite
 
 if you dare try to cheat. 
 
@@ -74,7 +74,7 @@ if you dare try to cheat.
 
 datelines police and enforce it.
 
-semi-colons ';' are the root cause of all evil 
+semi-colons are the root cause of all evil 
 
 don't forget them at end of your lines.
 
