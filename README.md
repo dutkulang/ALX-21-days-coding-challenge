@@ -74,6 +74,10 @@ if you dare try to cheat.
 
 datelines willl police and enforce it.
 
+To defer does not make you failure
+
+even the strong must rest too
+
 semi-colons are the root cause of all evil 
 
 don't forget them at end of your lines.
