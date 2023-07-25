@@ -72,7 +72,7 @@ if you dare try to cheat.
 
 80 hours a week is real not a joke,
 
-datelines police and enforce it.
+datelines willl police and enforce it.
 
 semi-colons are the root cause of all evil 
 
