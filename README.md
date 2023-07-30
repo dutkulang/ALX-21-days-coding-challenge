@@ -37,8 +37,9 @@ At times as we code, alot of research is done before-hand and during the actual 
 8. Push your working branch to GitHub.
 
 ```sh
-# git push origin <your-name>
-$ git push origin betty-kimba
+# -u flag to set upstream branch
+# git push -u origin <your-name>
+$ git push -u origin betty-kimba
 ```
 9. Contribute your work to the main repo by creating a pull request.
 
